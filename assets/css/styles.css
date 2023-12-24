@@ -82,6 +82,11 @@ section{
     border-radius: 25px;
 }
 
+a {
+    text-decoration: none; 
+    color: inherit;
+}
+
 
 footer {
     padding: 60px;
