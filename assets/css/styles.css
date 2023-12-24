@@ -118,6 +118,15 @@ footer {
     color: #33A8DB;
   }
 
+  #transform-world {
+    height: 560px;
+    background-size: cover;
+    background-image: url("../images/woman-code.png");
+    background-attachment: fixed;
+    border-top: 1px solid #33A8DB80;
+    border-bottom: 1px solid #33A8DB80;
+    padding: 200px;
+  }
 footer .dio-logo {
     width: 300px;
 }
