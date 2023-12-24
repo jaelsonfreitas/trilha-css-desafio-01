@@ -114,6 +114,10 @@ footer {
     border-top: 1px solid #33A8DB80;
 }
 
+#course-content .modules-list .module span {
+    color: #33A8DB;
+  }
+
 footer .dio-logo {
     width: 300px;
 }
