@@ -16,6 +16,10 @@ p {
     color: white;
 }
 
+section{
+    margin: 100px auto;
+}
+
 footer {
     padding: 60px;
     text-align: center;
