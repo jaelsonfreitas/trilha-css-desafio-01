@@ -21,3 +21,13 @@ footer {
     text-align: center;
     border-top: 1px solid #33A8DB80;
 }
+
+footer .dio-logo {
+    width: 300px;
+}
+
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+}
