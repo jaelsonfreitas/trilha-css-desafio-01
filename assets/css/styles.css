@@ -129,13 +129,21 @@ footer {
   }
 
   #transform-world p {
-    font-weight: 800;
+    font-weight: 900;
     font-size: 2.5rem;
     text-transform: lowercase;
     max-width: 250px;
     text-shadow: 3px 2px #33A8DB;
   }
-  
+
+  #professional-challenges {
+    text-align: center;
+    width: 800px;
+  }
+
+  #professional-challenges img {
+    margin: 32px 0;
+  }
 footer .dio-logo {
     width: 300px;
 }
