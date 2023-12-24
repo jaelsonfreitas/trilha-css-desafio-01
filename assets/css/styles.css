@@ -45,6 +45,11 @@ section{
     background-clip: text;
     -webkit-background-clip: text;
 }
+
+.banner p {
+    font-size: 1.25rem;
+    margin: 16px 0 24px;
+}
 footer {
     padding: 60px;
     text-align: center;
