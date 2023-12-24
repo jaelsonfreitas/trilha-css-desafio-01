@@ -35,6 +35,16 @@ section{
     margin: auto;
     text-align: center;
 }
+
+.banner h1 {
+    font-size: 3rm;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: transparent;
+    background: -webkit-linear-gradient(#33A8DB, #1472B7);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
 footer {
     padding: 60px;
     text-align: center;
