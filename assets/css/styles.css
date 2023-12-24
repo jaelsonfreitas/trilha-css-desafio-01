@@ -92,6 +92,11 @@ a {
     text-align: center;
 }
 
+#course-content-modules-list {
+    margin: 24px 0;
+}
+
+
 footer {
     padding: 60px;
     text-align: center;
