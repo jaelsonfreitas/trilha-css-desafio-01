@@ -28,6 +28,13 @@ section{
     padding-top: 60px;
     border-bottom: 1px solid #33A8DB80;
 }
+
+.banner .banner-content {
+    color: white;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
 footer {
     padding: 60px;
     text-align: center;
